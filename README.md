@@ -17,6 +17,17 @@ The goal is to provide **data-driven insights** to support sustainable food syst
 
 ---
 
+## 🧭 Methodology
+We followed the **CRISP-DM framework**:
+1. **Business Understanding** → Framed 7 business questions on food sustainability.  
+2. **Data Understanding** → Explored 43 food products × 23 variables (emissions, land, water, eutrophication).  
+3. **Data Preparation** → Cleaned missing values, standardized column names, created totals, and categorized foods.  
+4. **Analysis & Visualization** → Answered business questions with bar charts, scatter plots, and boxplots.  
+5. **Evaluation** → Drew insights on which foods/cycles impact most and highlighted sustainable alternatives.  
+6. **Deployment** → Shared results via GitHub (code, documentation, README, and visualizations).  
+
+---
+
 ## Dataset
 - **Source:** Provided by Azubi Africa (43 food products × 23 environmental metrics).
 - **Key columns:**

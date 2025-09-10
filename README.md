@@ -86,11 +86,4 @@ The goal is to provide **data-driven insights** to support sustainable food syst
 
 ---
 
-## Key Insights
-- **Beef and Lamb** are the largest contributors to emissions and land use.  
-- **Rice and Nuts** are heavy on water use, even if lower on emissions.  
-- **Farming and animal feed** dominate lifecycle emissions, while **transport and packaging** contribute little.  
-- **Tofu, Peas, Root Vegetables, and Cereals** have the lowest footprints → sustainable alternatives.  
-
----
 
